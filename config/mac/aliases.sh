@@ -17,3 +17,4 @@ alias play="nowplaying-cli togglePlayPause"
 alias next="nowplaying-cli next"
 alias prev="nowplaying-cli previous"
 alias qutc='"$EDITOR" ~/.qutebrowser/config.py'
+alias open="open_command"
